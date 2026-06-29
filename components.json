@@ -1,0 +1,11 @@
+{
+  "$schema": "https://ui.shadcn.com/schema.json",
+  "style": "default",
+  "rsc": false,
+  "ts": true,
+  "tsx": true,
+  "tailwind": {
+    "cssFile": "app/globals.css",
+    "configFile": "tailwind.config.js"
+  }
+}
